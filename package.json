@@ -14,7 +14,7 @@
     "react-dom": "^16.13.1",
     "react-dropdown": "^1.7.0",
     "react-loader": "^2.4.7",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-select": "^3.1.0",
     "tabletop": "^1.6.2"
   },
